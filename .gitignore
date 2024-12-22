@@ -1,0 +1,89 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environment files
+*.env
+*.venv
+*.virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Python cache files
+*.cache
+*.mypy_cache/
+.mypy_cache/
+.pytest_cache/
+__pycache__/
+*.pytest_cache/
+
+# Colab-specific files
+.colab/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Output files
+*.out
+*.bak
+
+# Config files and IDE metadata
+*.vscode/
+*.idea/
+*.swp
+
+# Test output
+coverage/
+.tox/
+.nox/
+
+# Ignore model and large data files
+data/
+*.h5
+*.hdf5
+*.pkl
+*.pth
+*.pt
+*.onnx
+*.joblib
+*.ckpt
+
+# Large directories
+logs/
+experiments/
+results/
+
+# Ignore zip files
+*.zip
+*.tar
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+
+# Ignore dataset directory
+data_cifar10/
+
+# Ignore generated metrics
+training_metrics.png
+
+# OS-generated files
+.DS_Store
+Thumbs.db

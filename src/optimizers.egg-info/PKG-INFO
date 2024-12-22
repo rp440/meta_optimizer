@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: optimizers
+Version: 0.1.0
+Summary: Meta-optimizer using PPO for neural network training
+Author: Your Name
+Requires-Dist: torch>=1.8.0
+Requires-Dist: torchvision>=0.9.0
+Requires-Dist: numpy>=1.19.0
+Requires-Dist: matplotlib>=3.3.0
